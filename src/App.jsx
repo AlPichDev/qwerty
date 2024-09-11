@@ -4,6 +4,7 @@ function App() {
 	return (
     <>
       {true && <h1>header</h1>}
+      {true && <h1>header</h1>}
     </>
   )
 }
